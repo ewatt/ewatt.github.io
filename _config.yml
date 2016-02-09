@@ -1,2 +1,3 @@
 name: Ian Watt
 markdown: kramdown
+permalink: /blog/:title
